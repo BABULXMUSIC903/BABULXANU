@@ -1,7 +1,7 @@
-<h1 align="center"><b>𝐇𝐄𝐄𝐍𝐀-𝗠𝗨𝗦𝗜𝗖 🎧</b></h1>
+<h1 align="center"><b>𝐁𝐀𝐁𝐔𝐋-𝗠𝗨𝗦𝗜𝗖 🎧</b></h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/zuaks6.jpg" width="500"/>
+  <img src="https://files.catbox.moe/897gi2.jpg" width="500"/>
 </p>
 
 <p align="center">
