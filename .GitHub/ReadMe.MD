@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NoxxOP/ShrutixMusic/main/ShrutixMusic/assets/ShrutixMusic.png" alt="ShrutixMusic Bot Logo" width="500px">
+  <img src="https://raw.githubusercontent.com/BABUL/BabulxMusic/main/BabulxMusic/assets/BabulxMusic.png" alt="babulxMusic Bot Logo" width="500px">
 </p>
 
-<h1 align="center">🎵 ShrutixMusic Bot 🎵</h1>
+<h1 align="center">🎵 BabulxMusic Bot 🎵</h1>
 
 <p align="center">
   <b>Ultimate Telegram Music Bot with Superior Audio Quality & Advanced Music Features</b>
